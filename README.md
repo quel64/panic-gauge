@@ -1,2 +1,10 @@
-# panic-gauge
-The ultimate desk companion for market chaos. Real-time VIX tracking with a live graph. Built for Project Stasis.
+# 📉 VIX Fear Gauge Terminal
+> **Project Stasis (Tier 2)** | Built by quel64
+
+A minimalist hardware terminal that visualizes market volatility (VIX) in real-time. 
+
+### 🛠 Tech Stack
+- **Hardware:** ESP32-C3, 3.2" ILI9341 TFT Display
+- **Firmware:** C++ (Arduino/TFT_eSPI)
+- **Data:** Twelve Data API (REST)
+- **Case:** Custom 3D-printed "L-Slant" enclosure
