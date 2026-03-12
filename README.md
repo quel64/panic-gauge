@@ -50,3 +50,16 @@ Display	- RST	- ESP32 GPIO 10
 Button - 1 - ESP32 GPIO 2 (Timeframe)
 
 Button - 2 - ESP32 GPIO 3 (Theme)
+
+# Project Bill of Materials (BOM)
+| Component | Description | Price | Source |
+| :--- | :--- | :--- | :--- |
+| **ESP32-C3** | Main MCU (SuperMini) | $2.04 | [Link](https://shorturl.at/nSwdf) |
+| **3.2" SPI TFT LCD** | ILI9341 Display | $9.32 | [Link](https://shorturl.at/U1MPf) |
+| **Solderable Perfboard** | 4x6cm Prototyping Board | $2.19 | [Link](https://shorturl.at/WMAwI) |
+| **AMS1117-3.3V** | Voltage Regulator | $1.26 | [Link](https://shorturl.at/bQWA9) |
+| **Rubber Feet** | For bottom of the case | $1.71 | [Link](https://shorturl.at/vf0jC) |
+| **10uF Capacitors** | Power stabilization | $2.63 | [Link](https://shorturl.at/ITGra) |
+| **Tactile Buttons** | 6x6x5mm (Time/Theme) | $0.00 | (In stock) |
+| **Resistor Kit** | 10k Ohm pull-ups | $0.00 | (In stock) |
+| **TOTAL** | | **$19.15** | |
