@@ -6,5 +6,5 @@ A minimalist hardware terminal that visualizes market volatility (VIX) in real-t
 ### Tech Stack
 - **Hardware:** ESP32-C3, 3.2" ILI9341 TFT Display
 - **Firmware:** C++ (Arduino/TFT_eSPI)
-- **Data:** Twelve Data API (REST)
+- **Data:** Alpha Vantage API
 - **Case:** Custom 3D-printed "L-Slant" enclosure
