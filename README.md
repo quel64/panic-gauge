@@ -3,6 +3,8 @@
 
 This project is a dedicated hardware terminal that fetches the **VIX (Volatility Index)** via the Alpha Vantage API and renders a dynamic intraday graph on a 3.2" TFT display. 
 
+<img width="1916" height="1198" alt="Screenshot 2026-03-12 104749" src="https://github.com/user-attachments/assets/c196383b-1390-47c2-8833-f48b6ec4e6b5" />
+
 ## Features
 - **Live Tracking:** Real-time updates via Wi-Fi.
 - **Dynamic Scaling:** The graph auto-zooms to show movement even during low volatility.
