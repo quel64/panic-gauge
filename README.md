@@ -15,7 +15,7 @@ This project is a dedicated hardware terminal that fetches the **VIX (Volatility
    - Ensure the driver is set to `#define ILI9341_DRIVER`.
    - Set pins: `MOSI: 4`, `SCLK: 5`, `CS: 7`, `DC: 6`, `RST: 10`.
 3. **API Key:** Get a free key from [Alpha Vantage](https://www.alphavantage.co/support/#api-key).
-4. **Firmware:** Open `vix_terminal.ino`, enter your Wi-Fi credentials and API Key, then upload.
+4. **Firmware:** Open `firmware_vixterminal.ino`, enter your Wi-Fi credentials and API Key, then upload.
 
 ## Button Usage
 - **Top Button (GPIO 2):** Swaps the data timeframe (1min / 5min).
